@@ -1,0 +1,13 @@
+{
+    "name": "Your Origin Name",
+    "description": "Your Origin Description",
+    "powers": [
+        "yournamespace:powerone",
+        "yournamespace:powertwo",
+        "yournamespace:powerthree",
+        "yournamespace:powerfour"
+    ],
+    "icon": "minecraft:dirt",
+	"order": 10,
+	"impact": 3
+}
